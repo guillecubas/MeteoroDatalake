@@ -1,0 +1,2800 @@
+[{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 18.6
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 18.0
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 20.8
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.0
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 25.2
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 18.5
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 20.1
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 25.4
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.3
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 22.8
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 22.2
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 24.6
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 24.8
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 23.0
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 22.6
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 23.9
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 24.0
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 23.3
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 23.2
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.4
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 21.5
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 23.6
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 23.4
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T10:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 22.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 18.8
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 20.2
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 22.7
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.7
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 25.7
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 19.9
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 21.6
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 26.9
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.3
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 23.4
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 23.2
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 25.4
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 25.3
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 24.0
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 22.7
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 24.5
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 24.7
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 23.5
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 23.7
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.6
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 22.5
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 24.9
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 24.1
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T11:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 23.3
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 19.6
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 20.8
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 22.0
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.8
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.1
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 19.7
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 20.6
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 27.4
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 24.6
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 24.3
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 26.3
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 26.4
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 25.0
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 23.1
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 24.9
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.0
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 23.6
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 24.0
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.5
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 23.2
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 26.0
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 24.5
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T12:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 23.7
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 19.9
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 19.5
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 22.5
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.8
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 25.9
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 20.2
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 20.3
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 28.1
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.1
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 24.7
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 26.8
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 25.7
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 23.9
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 23.6
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.4
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.1
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 24.3
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 24.4
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 24.2
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 24.1
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 25.9
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 25.2
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T13:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 23.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 20.0
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 20.4
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 22.3
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 25.2
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.5
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 19.1
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 19.8
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 28.6
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 23.1
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.9
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 22.3
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 26.1
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 25.5
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 23.5
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 24.2
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.3
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.4
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 24.1
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 24.2
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 24.4
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 23.3
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 26.3
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 25.0
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T14:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 24.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 20.0
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 21.3
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 21.9
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.9
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.5
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 20.3
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 23.7
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 29.4
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.9
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.3
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 21.8
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 27.1
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 26.2
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 23.8
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 24.7
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.4
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.9
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 24.2
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 24.7
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 24.4
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 24.3
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 25.5
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 25.1
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T15:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 25.0
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 20.3
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 20.3
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 22.9
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 25.1
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.9
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 20.6
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 23.6
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 28.6
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 23.3
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.3
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 22.5
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 26.4
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 25.9
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 24.0
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 24.0
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.3
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.7
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 24.1
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 24.8
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 25.2
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 23.8
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 25.8
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 25.0
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T16:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 24.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 19.0
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 19.4
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 23.5
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.8
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.8
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 18.3
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 19.7
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 27.6
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 23.2
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.0
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 21.3
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 27.2
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 26.8
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 23.8
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 23.7
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.3
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 25.8
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 22.6
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 23.8
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 25.0
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 22.8
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 25.7
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 25.4
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T17:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 24.7
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 17.6
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 18.0
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 21.9
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.7
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.6
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 17.4
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 18.8
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 26.6
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 23.5
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 25.5
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 19.9
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 25.3
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 24.6
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 22.7
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 23.9
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 25.0
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 24.9
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 21.6
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 23.3
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 25.0
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 21.2
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 25.4
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 24.6
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T18:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 24.0
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 16.5
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 17.5
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 21.2
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.6
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 26.4
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 18.0
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 18.6
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 25.5
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 23.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 23.8
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 18.4
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 24.5
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 23.9
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 22.5
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 24.8
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 24.5
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 24.5
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 19.3
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 22.8
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 24.9
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 19.9
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 24.5
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 24.2
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T19:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 23.4
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 13.0
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 14.5
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 18.9
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 25.3
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 25.3
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 17.0
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 18.2
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 22.3
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.9
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 22.8
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 17.4
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 23.9
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 22.3
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 21.2
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 21.9
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 23.6
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 23.6
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 17.9
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 21.4
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.7
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 16.9
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 22.6
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 22.9
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T20:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 23.3
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 11.6
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 13.3
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 17.6
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.9
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 25.0
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 16.2
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 17.6
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 21.4
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 22.4
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 16.7
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 23.2
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 21.9
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 20.0
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 20.7
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 23.3
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 23.2
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 16.4
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 20.5
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.5
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 16.2
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 22.2
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 21.5
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T21:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 22.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 10.7
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 13.2
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 17.0
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.7
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 24.9
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 15.3
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 17.1
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 20.7
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 22.3
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 15.8
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 23.2
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 21.6
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 19.7
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 20.9
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 23.3
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 23.0
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 17.0
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 20.2
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.4
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 16.1
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 21.5
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 20.6
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T22:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 22.9
+},
+{
+  "idema": "C611E",
+  "lon": -15.583889,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.976667,
+  "ubi": "SAN MATEO (CORRAL DE LOS JUNCOS)",
+  "ta": 10.0
+},
+{
+  "idema": "C612F",
+  "lon": -15.598889,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.006945,
+  "ubi": "TEJEDA-CRUZ DE TEJEDA",
+  "ta": 11.8
+},
+{
+  "idema": "C614H",
+  "lon": -15.615833,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.995,
+  "ubi": "TEJEDA CASCO",
+  "ta": 16.5
+},
+{
+  "idema": "C619X",
+  "lon": -15.712778,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.10111,
+  "ubi": "AGAETE-CASCO",
+  "ta": 24.4
+},
+{
+  "idema": "C619Y",
+  "lon": -15.8075,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.00111,
+  "ubi": "LA ALDEA DE SAN NICOLAS",
+  "ta": 24.1
+},
+{
+  "idema": "C623I",
+  "lon": -15.599722,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.926666,
+  "ubi": "SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)",
+  "ta": 15.3
+},
+{
+  "idema": "C625O",
+  "lon": -15.645,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.856943,
+  "ubi": "SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO",
+  "ta": 16.8
+},
+{
+  "idema": "C628B",
+  "lon": -15.77,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.90889,
+  "ubi": "SAN NICOLAS T.-TASARTE/COPARLITA",
+  "ta": 20.3
+},
+{
+  "idema": "C629Q",
+  "lon": -15.711111,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.78,
+  "ubi": "MOGAN (PUERTO RICO)",
+  "ta": 22.7
+},
+{
+  "idema": "C629X",
+  "lon": -15.764167,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.81639,
+  "ubi": "PUERTO DE MOGÁN",
+  "ta": 22.3
+},
+{
+  "idema": "C635B",
+  "lon": -15.574167,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.92,
+  "ubi": "SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS",
+  "ta": 15.5
+},
+{
+  "idema": "C639M",
+  "lon": -15.575556,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.758057,
+  "ubi": "SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO",
+  "ta": 22.8
+},
+{
+  "idema": "C639U",
+  "lon": -15.453056,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.8125,
+  "ubi": "SAN BARTOLOME TIRAJANA (EL MATORRAL)",
+  "ta": 21.2
+},
+{
+  "idema": "C648C",
+  "lon": -15.453889,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.9025,
+  "ubi": "AGÜIMES-EL MILANO",
+  "ta": 18.9
+},
+{
+  "idema": "C648N",
+  "lon": -15.457778,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.9875,
+  "ubi": "TELDE-CENTRO FORESTAL DORAMAS",
+  "ta": 20.8
+},
+{
+  "idema": "C649I",
+  "lon": -15.395303,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.917725,
+  "ubi": "LAS PALMAS DE GRAN CANARIA/GANDO",
+  "ta": 22.9
+},
+{
+  "idema": "C649R",
+  "lon": -15.377778,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.986668,
+  "ubi": "TELDE-MELENARA",
+  "ta": 23.0
+},
+{
+  "idema": "C656V",
+  "lon": -15.547222,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.075277,
+  "ubi": "TEROR-OSORIO",
+  "ta": 16.4
+},
+{
+  "idema": "C658X",
+  "lon": -15.453333,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.078056,
+  "ubi": "LAS PALMAS G.C.-TAFIRA/ZURBARÁN",
+  "ta": 19.8
+},
+{
+  "idema": "C659H",
+  "lon": -15.416111,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.089722,
+  "ubi": "LAS PALMAS G.C. SAN CRISTÓBAL",
+  "ta": 0.0
+},
+{
+  "idema": "C659M",
+  "lon": -15.421389,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.113056,
+  "ubi": "LAS PALMAS DE GC. PLAZA  DE LA FERIA",
+  "ta": 23.4
+},
+{
+  "idema": "C665T",
+  "lon": -15.565556,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.065556,
+  "ubi": "VALLESECO",
+  "ta": 16.0
+},
+{
+  "idema": "C668V",
+  "lon": -15.674914,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.094479,
+  "ubi": "AGAETE - SUERTE ALTA",
+  "ta": 21.3
+},
+{
+  "idema": "C669B",
+  "lon": -15.506667,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 28.141666,
+  "ubi": "ARUCAS-BAÑADEROS",
+  "ta": 20.3
+},
+{
+  "idema": "C689E",
+  "lon": -15.595833,
+  "fint": "2023-06-11T23:00:00",
+  "lat": 27.735832,
+  "ubi": "MASPALOMAS",
+  "ta": 22.6
+}]
