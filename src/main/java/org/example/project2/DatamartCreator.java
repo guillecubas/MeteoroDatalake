@@ -10,7 +10,8 @@ import java.sql.SQLException;
 
 
 
-public class DatamartCreator {
+
+public class Main {
         public static void main(String[] args) throws IOException, SQLException {
         // Read the JSON data from  all files in datalake
         File dir = new File("datalake");
