@@ -13,6 +13,7 @@ public class WeatherDataProcessor {
         @Override
         public void run() {
             try {
+                APIAccessor APIAccessor = new APIAccessor();
                 String data = APIAccessor.getData();
                 WeatherData[] weatherDataArray = new Gson().fromJson(data, WeatherData[].class);
                 WeatherDataUtils weatherDataUtils = new WeatherDataUtils();
