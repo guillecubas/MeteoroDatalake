@@ -11,8 +11,14 @@
 	<groupId>com.example</groupId>
 	<artifactId>MeteoroDatalake</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>spring-boot</name>
 	<description>Demo project for Spring Boot</description>
+	<modules>
+		<module>DatalakeCreator</module>
+		<module>DatamartBuilder</module>
+		<module>DatamartAPI</module>
+	</modules>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

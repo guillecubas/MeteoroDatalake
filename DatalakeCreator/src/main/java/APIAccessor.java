@@ -1,5 +1,3 @@
-package org.example;
-
 import com.google.gson.Gson;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;

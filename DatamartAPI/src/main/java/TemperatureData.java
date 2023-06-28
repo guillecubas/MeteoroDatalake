@@ -1,5 +1,3 @@
-package org.example.project3;
-
 public class TemperatureData {
     private String place;
     private double temperature;
